@@ -1,4 +1,3 @@
-
 # 📅 PHP Event Calendar Web Application
 A robust and interactive Event Calendar web application built using PHP, HTML, CSS, JavaScript, Bootstrap, Ajax, and MySQL. This application allows users to add, edit, delete, and view events by day, week, or month with a user-friendly interface.
 
@@ -21,7 +20,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/obadaKraishan/EventCalendarPHP.git
-cd event-calendar
+cd EventCalendarPHP
 ```
 
 ### 2. Set Up the Database
@@ -42,8 +41,8 @@ cd event-calendar
    );
    ```
 
-### 4. Run the Application
-Open a web browser and navigate to `http://localhost/event-calendar`.
+### 3. Run the Application
+Open a web browser and navigate to `http://localhost/EventCalendarPHP`.
 
 ## 🎨 Customization
 ### 1. Update Styles
