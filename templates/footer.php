@@ -10,7 +10,7 @@
     <div class="container p-4">
         <p class="text-center mb-0">
             Event Calendar Application | Designed by 
-            <a href="https://github.com/obadaKraishan" target="_blank">Obada Kraishan</a>
+            <a href="https://github.com/powercore649" target="_blank">inter-dev</a>
         </p>
     </div>
 </footer>
